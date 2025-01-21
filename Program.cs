@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("GeradorDeSenha");
+Console.WriteLine("GeradorSenhas!");
 
 using System;
 using System.IO;
@@ -26,7 +26,7 @@ class GeradorDeSenhas
         for (int i = 0; i < tamanho; i++)
         {
             senha.Append(caracteres[random.Next(caracteres.Length)]);
-            }
+        }
 
         return senha.ToString();
     }
@@ -58,7 +58,7 @@ class GeradorDeSenhas
         }
     }
 
-// Função principal
+    // Função principal
     static void Main()
     {
         while (true)
@@ -90,7 +90,7 @@ class GeradorDeSenhas
                 Console.Write("Deseja salvar a senha atual em backup? (s/n): ");
                 string salvar = Console.ReadLine().ToLower();
 
-            if (salvar == "s")
+                if (salvar == "s")
                 {
                     Console.WriteLine("Senha salva no backup.");
                     SalvarBackup(senha);
@@ -116,3 +116,4 @@ class GeradorDeSenhas
         }
     }
 }
+
