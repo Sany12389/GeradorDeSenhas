@@ -1,0 +1,15 @@
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.exe
+C:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.deps.json
+C:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.runtimeconfig.json
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.dll
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.pdb
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.AssemblyInfo.cs
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.sourcelink.json
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.dll
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\refint\GeradorDeSenhas.dll
+c:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.pdb
+C:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.genruntimeconfig.cache
+C:\Users\Aluno\Documents\ligth\SSZ\GeradorDeSenhas\obj\Debug\net8.0\ref\GeradorDeSenhas.dll
